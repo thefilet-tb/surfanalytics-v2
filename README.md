@@ -2,8 +2,8 @@
 
 ## Git commands
 
-# 1. Clone the code from repo
-<!-- 
+1. Clone the code from repo
+
     '''bash
     git clone https://github.com/thefilet-tb/surfanalytics-v2.git
     '''
@@ -20,23 +20,24 @@
     git checkout -b
     '''
 
-
     '''bash
     git fetch
     git pull
     '''
 
-Checklist of branches
+5. Checklist of branches
+
     '''bash
     git branch -a
     ''' 
-    
-Checkout main
+
+6. Checkout main
+
     '''bash
     git checkout main
     '''     
 
-4. Index new and modified files
+7. Index new and modified files
     
     '''bash
     git add DOT
@@ -45,5 +46,3 @@ Checkout main
     '''bash
     git commit -m "comment"
     '''  
-
--->
