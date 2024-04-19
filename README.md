@@ -38,10 +38,10 @@ git checkout main
 ```
 
 7. Index new and modified files
-    
+
 ```bash
 git add .
-```  
+```
 
 ```bash
 git commit -m "comment"
